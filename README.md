@@ -1,2 +1,2 @@
 # extrahours-js
-Personal Project - Calculating overtime pay from my part-time job
+To test my basic JavaScript skills, I wanted to create a way to calculate my extra pay from work.
